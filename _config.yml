@@ -4,14 +4,14 @@ description: "Senior Research Analyst at Schatz Lab in Johns Hopkins University"
 url: "https://srividya22.github.io"
 
 # Secondary Parameters
-baseurl: "/project-pages"
+baseurl: ""
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
-github_username:  projectpages
-project_repository: project-pages
+github_username:  srividya22
+project_repository: srividya22.github.io
 disqus_shortname: project-pages
 g-analytics: UA-75881392-1
 altmetric: true
